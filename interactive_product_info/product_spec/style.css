@@ -38,6 +38,10 @@ input.feature-focus-box {
     transition: 0.5s;
 }
 
+input.feature-focus-box:hover {
+    transform: scale(1.1) rotate(135deg);
+}
+
 label.feature-text {
     position: absolute;
 }
