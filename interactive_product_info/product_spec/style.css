@@ -13,7 +13,20 @@ div.main-content {
 
 /* product info section CSS - general */
 
+section#info-section {
+}
 
+div#product-info {
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+}
+
+div#product-info img {
+    max-width: 50vw;
+    object-fit: cover;
+}
 
 /* product info section CSS - individual element */
 
