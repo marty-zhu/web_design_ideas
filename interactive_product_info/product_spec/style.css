@@ -44,4 +44,26 @@ label.feature-text {
 /* product info section CSS - individual element */
 
 input#feature-1 {
+    top: 30%;
+    left: 25%;
+}
+
+input#feature-2 {
+    top: 60%;
+    left: 10%;
+}
+
+input#feature-3 {
+    top: 35%;
+    right: 25%;
+}
+
+input#feature-4 {
+    bottom: 25%;
+    right: 50%;
+}
+
+input#feature-5 {
+    bottom: 47%;
+    right: 3%;
 }
