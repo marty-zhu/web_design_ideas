@@ -6,7 +6,10 @@ body {
 
 /* general utilities */
 
-
+div.main-content {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
 
 /* product info section CSS - general */
 
