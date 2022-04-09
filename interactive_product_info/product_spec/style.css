@@ -17,6 +17,7 @@ section#info-section {
 }
 
 div#product-info {
+    position: relative;
     margin-left: 15vw;
     margin-right: 15vw;
     margin-top: 10vw;
@@ -28,5 +29,15 @@ div#product-info img {
     object-fit: cover;
 }
 
+input.feature-focus-box {
+    position: absolute;
+}
+
+label.feature-text {
+    position: absolute;
+}
+
 /* product info section CSS - individual element */
 
+input#feature-1 {
+}
