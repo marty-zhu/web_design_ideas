@@ -31,6 +31,10 @@ div#product-info img {
 
 input.feature-focus-box {
     position: absolute;
+    width: 2rem;
+    height: 2rem;
+    background: transparent;
+    border: 2px dashed green;
 }
 
 label.feature-text {
