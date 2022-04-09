@@ -33,13 +33,15 @@ input.feature-focus-box {
     position: absolute;
     width: 2rem;
     height: 2rem;
-    background: transparent;
-    border: 2px dashed green;
+    background: rgb(0, 191, 255, 0.1);
+    border: 2px dashed deepskyblue;
+    transition: 0.5s;
 }
 
 label.feature-text {
     position: absolute;
 }
+
 
 /* product info section CSS - individual element */
 
@@ -54,7 +56,7 @@ input#feature-2 {
 }
 
 input#feature-3 {
-    top: 35%;
+    top: 25%;
     right: 25%;
 }
 
