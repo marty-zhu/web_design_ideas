@@ -49,9 +49,16 @@ label.feature-text {
 
 /* product info section CSS - individual element */
 
-input#feature-1 {
+div#feature-block-1 {
+    position: absolute;
     top: 30%;
     left: 25%;
+}
+
+label#feature-1-text {
+    position: absolute;
+    left: -40px;
+    top: -20px;
 }
 
 input#feature-2 {
