@@ -84,9 +84,16 @@ label#feature-3-text {
     left: -60px;
 }
 
-input#feature-4 {
-    bottom: 25%;
+div#feature-block-4 {
+    position: absolute;
+    bottom: 35%;
     right: 50%;
+}
+
+label#feature-4-text {
+    position: absolute;
+    bottom: -50px;
+    right: -70px;
 }
 
 input#feature-5 {
