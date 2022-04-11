@@ -29,6 +29,11 @@ div#product-info img {
     object-fit: cover;
 }
 
+div.feature-block {
+    width: 2rem;
+    height: 2rem;
+}
+
 input.feature-focus-box {
     position: absolute;
     width: 2rem;
