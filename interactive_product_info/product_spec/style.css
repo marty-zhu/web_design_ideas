@@ -96,7 +96,13 @@ label#feature-4-text {
     right: -70px;
 }
 
-input#feature-5 {
-    bottom: 47%;
-    right: 3%;
+div#feature-block-5 {
+    position: absolute;
+    bottom: 55%;
+    right: 10%;
+}
+
+label#feature-5-text {
+    position: absolute;
+    right: -135px;
 }
