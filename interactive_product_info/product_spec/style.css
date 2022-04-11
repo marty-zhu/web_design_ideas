@@ -62,8 +62,8 @@ div#feature-block-1 {
 
 label#feature-1-text {
     position: absolute;
-    left: -40px;
-    top: -20px;
+    left: -120%;
+    top: -60%;
 }
 
 div#feature-block-2 {
@@ -74,7 +74,7 @@ div#feature-block-2 {
 
 label#feature-2-text {
     position: absolute;
-    left: -70px;
+    left: -220%;
 }
 
 div#feature-block-3 {
@@ -85,29 +85,29 @@ div#feature-block-3 {
 
 label#feature-3-text {
     position: absolute;
-    top: -70px;
-    left: -60px;
+    top: -150%;
+    left: -300%;
 }
 
 div#feature-block-4 {
     position: absolute;
-    bottom: 35%;
+    bottom: 25%;
     right: 50%;
 }
 
 label#feature-4-text {
     position: absolute;
-    bottom: -50px;
-    right: -70px;
+    bottom: -60%;
+    right: -120%;
 }
 
 div#feature-block-5 {
     position: absolute;
-    bottom: 55%;
-    right: 10%;
+    bottom: 50%;
+    right: 4%;
 }
 
 label#feature-5-text {
     position: absolute;
-    right: -140px;
+    right: -330%;
 }
