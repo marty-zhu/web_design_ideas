@@ -4,8 +4,8 @@ const anchorBoxes = document.querySelectorAll('input.feature-focus-box');
 
 function addPromptText(nodeList) {
     for (let elem of nodeList) {
+        let promptFrom = elem.dataset.prompt;
         let promptText = document.querySelector(`label#${elem.id}-text`);
-        let promptFrom = promptText.dataset.prompt;
 
         elem.addEventListener('mouseover', () => {
             promptText.classList.add(`slide-in-from-${promptFrom}`);
@@ -17,4 +17,4 @@ function addPromptText(nodeList) {
     };
 };
 
-addPromptText(anchorBoxes)
+addPromptText(anchorBoxes);
