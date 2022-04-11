@@ -111,3 +111,8 @@ label#feature-5-text {
     position: absolute;
     right: -330%;
 }
+
+.slide-in-from-left {
+    left: 0;
+    transform: translateX(-100%)
+}
